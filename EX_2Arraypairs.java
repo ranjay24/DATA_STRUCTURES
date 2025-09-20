@@ -19,6 +19,6 @@ public class EX_2Arraypairs {
         for (int i = 0; i < arr.length; i++) {
             arr[i]= in.nextInt();
         }
-        pair(arr);
+        pair(arr);in.close();
     }
 }

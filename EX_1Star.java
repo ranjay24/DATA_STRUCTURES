@@ -106,8 +106,9 @@ public class EX_1Star {
     // invertedstar(row);
     // halfpyramid(row);
     // charpattern(row);
-    // hollowrect(row, col);
+    hollowrect(row, col);
    // rotatedpyra(row,col);
     // invertednum(row,col);
+    in.close();
 }
 }

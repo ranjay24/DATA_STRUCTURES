@@ -7,5 +7,6 @@ public class EX_3Arrays {
             arr[i] =  in.nextInt();
             System.out.println(arr[i]);
         }
+        in.close();
      }
 }

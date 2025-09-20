@@ -30,5 +30,6 @@ public class EX_4Arr_bin_search {
         }
         int search =  in.nextInt();
         binary_search(arr,search);
+        in.close();
     }
 }
