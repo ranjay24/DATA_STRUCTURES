@@ -10,6 +10,7 @@ public class EX_5Function {
         int b = in.nextInt();
         int c = in.nextInt();
         System.out.println((a+b+c)/3);
+        in.close();
     }
 
 
