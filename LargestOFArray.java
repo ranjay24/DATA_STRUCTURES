@@ -1,4 +1,4 @@
-class Solution {
+class LargestOFArray {
   public int largestElement(int[] nums) {
     int max = Integer.MIN_VALUE;
     for (int i = 0; i < nums.length; i++) {
